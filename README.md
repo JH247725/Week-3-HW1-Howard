@@ -2,7 +2,7 @@ Week 3 Homework 1 - SQL Basic
 
 Overview
 
-This repository contains my work for Week 3 Homework 1 for DATA 4381.
+This repository contains my work for Week 3 Homework 1 and 2 for DATA 4381.
 
 The assignment focuses on practicing basic SQL queries using the provided IMDB.sqlite dataset.
 
